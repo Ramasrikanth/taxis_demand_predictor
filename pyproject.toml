@@ -7,6 +7,10 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+jupyter = "^1.0.0"
+ipykernel = "^6.25.2"
+pyarrow = "^13.0.0"
+fastparquet = "^2023.8.0"
 
 
 [build-system]
