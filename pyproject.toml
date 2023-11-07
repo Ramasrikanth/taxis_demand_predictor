@@ -11,6 +11,8 @@ jupyter = "^1.0.0"
 ipykernel = "^6.25.2"
 pyarrow = "^13.0.0"
 fastparquet = "^2023.8.0"
+plotly = "^5.18.0"
+tqdm = "^4.66.1"
 
 
 [build-system]
